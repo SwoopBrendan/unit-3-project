@@ -1,0 +1,12 @@
+C:\Users\Brendan\Documents\Visual Studio 2008\Projects\unit 3 project\unit 3 project\bin\Release\unit 3 project.exe
+C:\Users\Brendan\Documents\Visual Studio 2008\Projects\unit 3 project\unit 3 project\bin\Release\unit 3 project.pdb
+C:\Users\Brendan\Documents\Visual Studio 2008\Projects\unit 3 project\unit 3 project\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Brendan\Documents\Visual Studio 2008\Projects\unit 3 project\unit 3 project\obj\Release\WindowsFormsApplication1.Form1.resources
+C:\Users\Brendan\Documents\Visual Studio 2008\Projects\unit 3 project\unit 3 project\obj\Release\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Brendan\Documents\Visual Studio 2008\Projects\unit 3 project\unit 3 project\obj\Release\unit 3 project.csproj.GenerateResource.Cache
+C:\Users\Brendan\Documents\Visual Studio 2008\Projects\unit 3 project\unit 3 project\obj\Release\unit 3 project.exe
+C:\Users\Brendan\Documents\Visual Studio 2008\Projects\unit 3 project\unit 3 project\obj\Release\unit 3 project.pdb
+C:\Users\Brendan\Documents\Visual Studio 2008\Projects\unit 3 project\unit 3 project\bin\Release\unit 3 project.exe.manifest
+C:\Users\Brendan\Documents\Visual Studio 2008\Projects\unit 3 project\unit 3 project\bin\Release\unit 3 project.application
+C:\Users\Brendan\Documents\Visual Studio 2008\Projects\unit 3 project\unit 3 project\obj\Release\unit 3 project.exe.manifest
+C:\Users\Brendan\Documents\Visual Studio 2008\Projects\unit 3 project\unit 3 project\obj\Release\unit 3 project.application
